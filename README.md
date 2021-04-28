@@ -6,3 +6,4 @@ The game that I am creating is Pac Man that has randomly generated mazes. You ne
 
 ![Start Screen Example](https://github.com/TrevorBanks-alt/finalproject/blob/gh-pages/Screen%20Shot%202021-04-28%20at%208.53.02%20AM.png)
 ![Maze Example](https://github.com/TrevorBanks-alt/finalproject/blob/gh-pages/Screen%20Shot%202021-04-28%20at%208.53.26%20AM.png)
+![End Screen Example](https://github.com/TrevorBanks-alt/finalproject/blob/gh-pages/Screen%20Shot%202021-04-28%20at%208.53.51%20AM.png)
